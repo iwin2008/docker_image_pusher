@@ -1,7 +1,6 @@
 nginx
 #支持私库
-hagb/docker-easyconnect:7.6.7
-o2oa/o2server:latest
-xhongc/music_tag_web:latest
+stirlingtools/stirling-pdf:latest
+
 #支持指定架构
 
