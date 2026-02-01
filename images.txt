@@ -1,6 +1,7 @@
 nginx
 #支持私库
 stirlingtools/stirling-pdf:latest
+steedos/steedos-community:last
 docker.n8n.io/n8nio/n8n
 #支持指定架构
 
